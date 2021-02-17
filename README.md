@@ -2,7 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-For the live project URL, go to: https://netflixapp-10025.web.app/
+For the live project URL, go to: 
+
+https://netflixapp-10025.web.app/
 
 ## Available Scripts
 
